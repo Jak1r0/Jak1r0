@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jak1r0
-- 👀 I’m interested in CSGO
+- 👀 I’m interested in Games
 - 🌱 I’m currently learning Computer Science
 - 📫 1203294237@qq.com
 
